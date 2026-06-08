@@ -42,6 +42,7 @@
 
 ## Tools and Apps
 
+- [TWZRD Agent Intel](https://intel.twzrd.xyz) - AI agent identity and trust scoring on Solana. Verify autonomous AI agent wallet identity before x402 micropayments. Free MCP: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`
 - [AwardWallet](https://awardwallet.com/) - A tool for tracking your loyalty program balances and points.
 - [Point.me](https://www.point.me/) - A search engine for finding award flight availability across multiple airlines.
 - [SeatGuru](https://www.seatguru.com/) - Check airplane seat maps and reviews to choose the best seat.
