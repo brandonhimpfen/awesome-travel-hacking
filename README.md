@@ -47,6 +47,7 @@
 - [SeatGuru](https://www.seatguru.com/) - Check airplane seat maps and reviews to choose the best seat.
 - [TripIt](https://www.tripit.com/) - An app that organizes your travel plans into one simple itinerary.
 - [Kayak Explore](https://www.kayak.com/explore) - A tool that shows you where you can fly within your budget.
+- [Wander China Planner](https://ordinarymantrying.com/tools/wander-china/planner.html) - Free drag-and-drop itinerary builder for 31 Chinese cities with verified opening hours, ticket prices, and metro directions — no Chinese needed.
 
 ## Loyalty Programs
 
