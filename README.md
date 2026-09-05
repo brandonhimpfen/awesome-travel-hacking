@@ -27,6 +27,7 @@
 ## Flight Deals
 
 - [Scott's Cheap Flights](https://www.scottscheapflights.com/) - A service that alerts you to amazing flight deals.
+- [Travellagio](https://travellagio.com/) - Live flight price comparison across 44 destinations, plus visa, budget, and seasonal guides for each one.
 - [Hopper](https://www.hopper.com/) - An app that predicts the best time to book flights and hotels.
 - [Skyscanner](https://www.skyscanner.com/) - A flight comparison tool for finding the best airfare deals.
 - [Google Flights](https://www.google.com/flights) - A powerful search tool for finding flights and tracking prices.
