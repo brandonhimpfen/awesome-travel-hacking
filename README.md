@@ -39,6 +39,7 @@
 - [TrustedHousesitters](https://www.trustedhousesitters.com/) - Stay for free by house-sitting around the world.
 - [Couchsurfing](https://www.couchsurfing.com/) - A community of travelers offering free places to stay.
 - [HotelTonight](https://www.hoteltonight.com/) - An app for booking last-minute hotel deals.
+- [CheckInAge](https://checkinage.com/) - Free lookup of published minimum check-in ages (18+/21+) for 1,000+ US hotels, with links to each property's official policy.
 
 ## Tools and Apps
 
