@@ -47,6 +47,7 @@
 - [SeatGuru](https://www.seatguru.com/) - Check airplane seat maps and reviews to choose the best seat.
 - [TripIt](https://www.tripit.com/) - An app that organizes your travel plans into one simple itinerary.
 - [Kayak Explore](https://www.kayak.com/explore) - A tool that shows you where you can fly within your budget.
+- [Travel Connection Check](https://nxtlsim.github.io/travel-connection-check/) - A free browser test for mobile speed, latency and estimated data use on hotel Wi-Fi or a travel eSIM.
 
 ## Loyalty Programs
 
